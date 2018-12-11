@@ -1,2 +1,4 @@
-# hello-world
-my first repository
+#include <stdio.h>
+void main(void){
+  printf("hello,world");
+}
